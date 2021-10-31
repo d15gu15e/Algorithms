@@ -27,3 +27,4 @@ def bubbleSort(arr):
             if arr[j] > arr[j+1]:
                 # Swap the elements if they are not in the right order.
                 arr[j], arr[j+1] = arr[j+1], arr[j]
+    return arr
