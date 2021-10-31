@@ -1,8 +1,14 @@
 '''
 
+— What is Bubble Sort?
+
+Bubblesort, sometimes called sinking sort, is a simple
+sorting algorithm. It is a simple algorithm, but inefficient. 
+It is often used as an illustration of an algorithm because 
+of its simplicity and because it is easy to explain. 
+
 — How does Bubble Sort work?
 
-Bubble Sort is one of the easiest to understand algorithms:
 Start from the leftmost element, compare it to the neighboring
 element to the right, and put them in the correct order. 
 
