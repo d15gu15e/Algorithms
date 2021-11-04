@@ -13,8 +13,10 @@ the two sorted halves together.
 
 — When should I use this sorting algorithm?
 
-Honestly? Never. With an average complexity of О(n²), it's incredibly
-slow, especially when handling a lot of data.
+Merge Sort is useful for sorting linked lists. Merge Sort 
+is a stable sort which means that the same element in an 
+array maintain their original positions with respect to 
+each other
 
 '''
 
