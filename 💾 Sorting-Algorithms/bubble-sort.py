@@ -14,8 +14,8 @@ element to the right, and put them in the correct order.
 
 — When should I use this sorting algorithm?
 
-Honestly? Never. With an average complexity of О(n²), it's incredibly
-slow, especially when handling a lot of data.
+Bubble Sort can be good at checking if everything is already sorted or when
+trying to sort small data sets.
 
 '''
 
